@@ -3,3 +3,8 @@ h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     color:blueviolet;
 }
+body{
+    background-image: url("https://www.vamosrayos.com/b/2020/01/free-wallpaper-samples-for-phone-windows.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
